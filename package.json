@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "name": "gatsby-theme-spectrum",
+  "version": "0.0.1",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adobe/gatsby-theme-spectrum"
+  },
+  "author": {
+    "name": "Stephan Ringel",
+    "url": "https://github.com/icaraps"
+  },
+  "workspaces": ["example", "packages/*"],
+  "scripts": {
+    "start": "yarn workspace example start",
+    "start:prefix": "yarn workspace example start:prefix",
+    "dev": "yarn workspace example develop",
+    "build": "yarn workspace example build",
+    "serve": "yarn workspace example serve",
+    "clean": "yarn workspace example clean",
+    "format": "npx prettier --write '**/*.{js,json}'",
+    "test": "echo 'https://www.gatsbyjs.org/docs/testing/'"
+  }
+}
