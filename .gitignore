@@ -1,0 +1,18 @@
+.editorconfig
+
+# npm yarn
+node_modules
+package.lock
+yarn-error.log
+
+# gatsby files
+.env
+.cache
+public
+
+# cypress
+cypress/videos
+cypress/screenshots
+
+# lerna
+lerna-debug.log
