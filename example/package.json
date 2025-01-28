@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "example",
+  "version": "0.0.1",
+  "dependencies": {
+    "@adobe/gatsby-theme-aio": "*",
+    "gatsby": "^2.23.11",
+    "react": "^17.0.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "start": "gatsby build && gatsby serve",
+    "start:prefix": "gatsby build --prefix-paths && gatsby serve --prefix-paths",
+    "develop": "gatsby develop -H 0.0.0.0",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  }
+}
