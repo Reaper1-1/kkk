@@ -15187,10 +15187,10 @@ rehype-slug@^3.0.0:
     hast-util-to-string "^1.0.0"
     unist-util-visit "^2.0.0"
 
-remark-docz@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/remark-docz/-/remark-docz-2.1.0.tgz#e5ea97ec1922689d6fcd9965d49ae36162709eb3"
-  integrity sha512-5Crfi0xyBEoEJP06eaVZ6FodMWf3SunzL8icubxxqgAaIklgqp9H2hQ6getSe+0VM8yj0P1r2LPrl7GA1PLEPw==
+remark-docz@^2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/remark-docz/-/remark-docz-2.4.0.tgz#fc493692be3f8dbf6112af3680a9b2b3bd26585a"
+  integrity sha512-S4IFKQTZ3Nzoy5VWp+IwHpHEuCWlELKFAv753JJrzCxIStc3xLGgjAVwp820XuTcuHMMqzEaGqvcIT03Y8vuvQ==
   dependencies:
     "@babel/generator" "^7.5.5"
     "@babel/types" "^7.5.5"
