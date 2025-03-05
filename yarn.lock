@@ -9186,12 +9186,12 @@ gatsby-plugin-emotion@^4.3.15:
     "@babel/runtime" "^7.11.2"
     "@emotion/babel-preset-css-prop" "^10.0.27"
 
-gatsby-plugin-layout@^1.3.13:
-  version "1.3.13"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-layout/-/gatsby-plugin-layout-1.3.13.tgz#3b43d279578391ee3ce64dff2d32e2dcb0a0ae37"
-  integrity sha512-bNQYp/GKECa0EF1GAFuRriAs6LslshHt86q0S5IWtFpnGDRkY8+90KbZM3/EoEPuBPYd8QDgxsqJHB/Jyhdr5A==
+gatsby-plugin-layout@^4.14.0:
+  version "4.14.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-layout/-/gatsby-plugin-layout-4.14.0.tgz#0598fab385b73dd48be968c857878c56b500bc17"
+  integrity sha512-DG7Rva3hgbqgDxNT7JbJAGxwAPyhOppAorK1ioeyToLqa4BPWBWggIYD65Uuetkh5633Sx44q1L5ygpiB0QJkw==
   dependencies:
-    "@babel/runtime" "^7.11.2"
+    "@babel/runtime" "^7.20.13"
 
 gatsby-plugin-mdx-embed@^0.0.14:
   version "0.0.14"
