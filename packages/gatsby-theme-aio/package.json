@@ -76,7 +76,7 @@
     "gatsby-plugin-react-helmet-async": "^1.1.0",
     "gatsby-source-filesystem": "^5.14.0",
     "mdx-embed": "^0.0.14",
-    "prism-react-renderer": "^1.1.1",
+    "prism-react-renderer": "^2.4.1",
     "prop-types": "^15.7.2",
     "react-helmet-async": "^1.0.7",
     "react-id-generator": "^3.0.1",
