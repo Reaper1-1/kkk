@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@adobe/focus-ring-polyfill": "^0.1.5",
-    "@adobe/gatsby-add-launch-script": "^0.0.4",
+    "@adobe/gatsby-add-launch-script": "^0.0.5",
     "@adobe/gatsby-remark-afm": "^0.8.6",
     "@adobe/gatsby-source-github-file-contributors": "^0.3.0",
     "@adobe/parliament-site-search-index": "^0.0.4",
